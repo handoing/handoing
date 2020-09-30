@@ -1,10 +1,4 @@
-### Hi there 👋, I'm Double Han <span><img src="https://komarev.com/ghpvc?username=handoing" alt="handoing" /></span>
-
-<a href=https://twitter.com/iiiiiii7 target="blank"><img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="iiiiiii7" height="20" width="20" /></a>
-
-<h3>A front end developer from China 🇨🇳</h3>
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=handoing alt=handoing/> </p>
+### Hi there 👋, I'm Double Han
 
 <!--
 **handoing/handoing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p><img src="https://komarev.com/ghpvc?username=handoing" alt="handoing" /></p>
+
+<h3>A front end developer from China 🇨🇳</h3>
 
 [![handoing's github stats](https://github-readme-stats.vercel.app/api?username=handoing&show_icons=true)](https://github.com/handoing)
 
