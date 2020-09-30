@@ -4,7 +4,7 @@
 
 <h3>A front end developer from China 🇨🇳</h3>
 
-<img src=https://komarev.com/ghpvc/?username=handoing alt=handoing/>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=handoing alt=handoing/> </p>
 
 <!--
 **handoing/handoing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
